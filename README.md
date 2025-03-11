@@ -2,9 +2,7 @@
 
 ![https://img.shields.io/badge/license-MIT-green](https://img.shields.io/badge/license-MIT-green)
 
-
-## Descripción
-Aquí pondremos nuestros códigos para que juegen con ellos cuando lo deseen.
+Este repositorio ofrece recursos sobre Teoría Estocástica de Portafolios (SPT), abarcando desde los fundamentos de Procesos Markovianos y Movimiento Browniano hasta aplicaciones en gestión de inversiones.
 
 ## Capitulos
 1. **Capíitulo 1** Introducción a Proceso Markoviano y Movimiento Browniano
